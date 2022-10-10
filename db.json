@@ -1,1 +1,22 @@
-{"testEnty": "testValue"}
+[
+  {
+    "label": "username",
+    "field": "username"
+  },
+  {
+    "label": "groupNameType",
+    "field": "groupNameType"
+  },
+  {
+    "label": "fullName",
+    "field": "fullName"
+  },
+  {
+    "label": "profileNameType",
+    "field": "profileNameType"
+  },
+  {
+    "label": "status",
+    "field": "status"
+  }
+]
